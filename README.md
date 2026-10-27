@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Şerafettin 👋<br/>Hi, I'm Şerafettin 👋</h1>
+<h1 align="center">Merhaba, ben Şerafettin <br/>Hi, I'm Şerafettin </h1>
 
 <p align="center">
   🇹🇷 Yazılım geliştirici • C#, Java ve Spring Boot ile backend, gerçek zamanlı uygulamalar ve konteyner tabanlı çözümler geliştiriyorum.<br/>
@@ -9,21 +9,21 @@
 
 ## 🇹🇷 Hakkımda
 
-- 💻 C# / .NET ve Java / Spring Boot ile uygulama geliştiriyorum
-- ⚡ SignalR ile gerçek zamanlı uygulamalar yapıyorum
-- 🐳 Docker ile uygulamaları paketleyip çalıştırıyorum
-- 🌱 Sürekli yeni şeyler öğrenmeye ve projeler üretmeye çalışıyorum
+-  C# / .NET ve Java / Spring Boot ile uygulama geliştiriyorum
+-  SignalR ile gerçek zamanlı uygulamalar yapıyorum
+-  Docker ile uygulamaları paketleyip çalıştırıyorum
+-  Sürekli yeni şeyler öğrenmeye ve projeler üretmeye çalışıyorum
 
 ## 🇬🇧 About me
 
-- 💻 I develop applications with C# / .NET and Java / Spring Boot
-- ⚡ I build real-time apps with SignalR
-- 🐳 I package and run applications with Docker
-- 🌱 I'm always learning and building new projects
+-  I develop applications with C# / .NET and Java / Spring Boot
+-  I build real-time apps with SignalR
+-  I package and run applications with Docker
+-  I'm always learning and building new projects
 
 ---
 
-## 🛠️ Teknolojiler / Tech Stack
+##  Teknolojiler / Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri / GitHub Stats
+##  GitHub İstatistikleri / GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=serafettinkcktas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -48,8 +48,6 @@
 
 ---
 
-## 🐍 Katkı Yılanı / Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serafettinkcktas/serafettinkcktas/output/github-snake-dark.svg" />
@@ -60,7 +58,7 @@
 
 ---
 
-## 📫 İletişim / Contact
+## İletişim / Contact
 
 <p align="center">
   <a href="https://github.com/serafettinkcktas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
