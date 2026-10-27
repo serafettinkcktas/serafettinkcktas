@@ -12,6 +12,7 @@
 -  C# / .NET ve Java / Spring Boot ile uygulama geliştiriyorum
 -  SignalR ile gerçek zamanlı uygulamalar yapıyorum
 -  Docker ile uygulamaları paketleyip çalıştırıyorum
+-  Geliştirdiğim uygulamaları AWS EC2 üzerinde yayınlıyorum
 -  Sürekli yeni şeyler öğrenmeye ve projeler üretmeye çalışıyorum
 
 ## 🇬🇧 About me
@@ -19,6 +20,7 @@
 -  I develop applications with C# / .NET and Java / Spring Boot
 -  I build real-time apps with SignalR
 -  I package and run applications with Docker
+-  I deploy my applications on AWS EC2
 -  I'm always learning and building new projects
 
 ---
@@ -32,6 +34,7 @@
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
 </p>
 
 ---
